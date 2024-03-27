@@ -1,0 +1,80 @@
+ * {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+    margin: 0;
+  }
+  header {
+    background-color: rgba(12, 33, 80, 0.927);
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    color: aliceblue;
+  }
+  .avatar {
+    height: 300px;
+    margin: 40px auto;
+  }
+  .hobbies {
+    background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url("https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg") center/cover no-repeat;
+    background-size:cover;
+    height: fit-content;
+    margin: 0px;
+  }
+  h3 {
+    font-weight: bold ;
+  }
+  div {
+    margin: 10px 10px;
+    padding: 10px;
+  }
+  li {
+    margin: 10px;
+  }
+  hr {
+    border: 2px solid rgba(12, 33, 80, 0.927);
+  }
+  iframe {
+  margin: 20px;
+
+}
+.photo_box 
+{
+  box-sizing: content-box;
+  height: 200px;
+  overflow: scroll;
+}
+img {
+  padding-top: 20px;
+  height: 400px;
+}
+form {
+display: inline-block;
+}
+footer {
+  height: fit-content;
+  padding-top: 10px;
+  background-color: rgba(172, 173, 177, 0.213);
+  margin: 0px;
+}
+.buttons {
+  text-align: center;
+  padding-top: 10px;
+}
+textarea {
+  border-radius: 10px;
+  margin: 5px 0px;
+  border: 2px solid rgba(12, 33, 80, 0.927);
+  resize: none;
+  height: 100px;
+  font-size: 16px;
+}
+
+button {
+  background-color: rgba(12, 33, 80, 0.927);
+  color: aliceblue;
+  padding: 10px;
+ border-radius: 10px;
+ padding: 10px;
+} 
